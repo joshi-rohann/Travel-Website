@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,700;1,900&display=swap');
+
+
+.jumbotron.banner{
+
+
+    background: url(images/boudha.jpg) ;
+height: 615px;
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: 11px;
+padding-top: 192px;
+opacity: 0.89 !important ;
+padding-left: 103px;
+font-weight: bolder;
+
+
+}
+.jumbotron .banner-text{
+    text-align: center;
+   
+   
+}
+.jumbotron .bar-img{
+width: 70px;
+height: 65px;
+}
+    
+
+
+.display-4{
+    color: #501B1D;
+    font-family: "Roboto";
+    font-size: 53px;
+
+}
+.leads{
+    color:rgb(53, 48, 49);
+    font-size: 25px;
+    padding-top: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+
+   
+}
+.display-4 .logo{
+    padding-left: 4px ;
+    
+}
+
+.nav-item .Sign-up{
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+ :hover.nav-link{
+    color: rgb(65, 42, 11);
+}

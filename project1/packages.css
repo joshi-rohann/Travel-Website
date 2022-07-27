@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300;400&family=Kdam+Thmor+Pro&family=Roboto:ital,wght@0,300;0,400;0,500;1,500;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300;400&family=Cuprum:ital,wght@1,500&family=Kdam+Thmor+Pro&family=Roboto:ital,wght@0,300;0,400;0,500;1,500;1,900&display=swap');
+
+
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+.title{
+  font-family: Roboto;
+}
+
+.description{
+font-family: Cuprum;
+font-size: 21px;
+}
+
+.update{
+    border: 2px solid white;
+    color: whitesmoke;
+    border-radius: 12%;
+    background: rgb(22, 49, 59);
+    text-decoration: none;
+    font-size: 18px;
+    padding:3.3px;
+    margin-left: 8px;
+    margin-bottom: 2px;
+    text-align: center;
+ 
+}
+.update:hover{
+    background: rgb(135, 135, 153);
+    color: azure;
+}
+
+.delete{
+
+    border: 2px solid white;
+    color: whitesmoke;
+    border-radius: 12%;
+    background: rgb(22, 49, 59);
+    text-decoration: none;
+    font-size: 18px;
+    padding:3.3px;
+    margin-bottom: 2px;
+
+}
+
+
+.delete:hover{
+    background: rgb(135, 135, 153);
+    color: azure;
+}
+
+
+
+
+.card1{
+  background:#24c698 ;
+  border:1px solid #56625f;
+}
+
+.card1:hover {
+  background:#325249;
+  border:1px solid #56625f;
+}
+
+.card1:hover .list-group-item{
+  background:#00ffb6 !important;
+}
+
+
+.card2{
+  background:  #00C9FF;
+  border:1px solid #00C9FF;
+}
+
+
+.card2:hover {
+  background:#344d53;
+  border:1px solid #00C9FF;
+}
+
+.card2:hover .list-group-item{
+  background:#00C9FF !important
+}
+
+
+
+
+.card3{
+background: #D2AF26;
+  border:1px solid #D2AF26;
+
+
+}
+
+.card3:hover {
+  background: #615733;
+  border:1px solid #D2AF26;
+}
+
+.card3:hover .list-group-item{
+  background: #D2AF26  rgb(210, 175, 38)!important;
+}
+
+
+.card:hover .btn-outline-dark{
+  color:white;
+  background:#212529;
+}
+
+.card-title{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.h2{
+  text-align: center;
+ 
+}
+
+.text{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
